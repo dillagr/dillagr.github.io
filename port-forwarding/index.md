@@ -8,7 +8,7 @@ I specifically wanted to enable port-forwarding for my Linxdot Helium Miner, in 
 ![helium-hotspot-relayed.png](https://dillagr.github.io/port-forwarding/PLDT-HG180U/helium-hotspot-relayed.png)
 
 
-## [1] Connect To Your Router.
+## **_Connect To Your Router_**
 
 Open either Chrome, Edge, or your favorite browser. You will need to open two (2) tabs. On the first tab, this address or URL:
 
@@ -37,14 +37,14 @@ password: 3UJUh2VemEfUtesEchEuSHA
 ![advanced-nat-virtual-servers](https://dillagr.github.io/port-forwarding/PLDT-HG180U/advanced-nat-virtual-servers.png)
 
 
-## [2] Obtain The IP Address
+## **_Obtain The IP Address_**
 
 Get the _leased_ IP Address of your device from **_Status_** -> **_LAN_** -> **_DHCP Server_**. 
 
 This is usually 192.168.1.x. If there are a number of devices listed (e.g. Phones, Laptops or IoT devices), your device should be identifiable based on its hostname. Take note of the device IP Address as this will be used later.
 
 
-## [3] Configure Port Forwarding
+## **_Configure Port Forwarding_**
 
 Go to **_Advanced_** -> **_NAT_** -> **_Virtual Servers_**
 
@@ -66,7 +66,7 @@ Internal IP Address: 192.168.1.22 (leased IP Address)
 ![hnt-miner-port-forward](https://dillagr.github.io/port-forwarding/PLDT-HG180U/hnt-miner-port-forward.png)
 
 
-## [4] Verify Port Forwarding
+## **_Verify Port Forwarding_**
 
 Verify that TCP port 44158 is indeed open. Open another tab on your browser and go to [_https://portchecker.co_](https://portchecker.co)
 
