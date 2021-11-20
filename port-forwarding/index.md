@@ -72,9 +72,13 @@ Internal IP Address: 192.168.1.22 (leased IP Address)
 
 Verify that TCP port 44158 is indeed open. Open another tab on your browser and go to [_https://portchecker.co_](https://portchecker.co)
 
-You should be able to see that port 44158 is open. This help avoid the _relayed_ status on your Helium miner.
+You should be able to see that port 44158 is open. This would help avoid the _relayed_ status on your Helium miner.
 
 ![port-checker-44158](https://dillagr.github.io/port-forwarding/PLDT-HG180U/port-checker-44158.png)
+
+In contrast, if port 44158 is closed, this would be how it would look.
+
+![port-checker-44158-closed](https://dillagr.github.io/port-forwarding/PLDT-HG180U/port-checker-44158-closed.png)
 
 
 <br>&nbsp;
