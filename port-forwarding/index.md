@@ -51,7 +51,7 @@ Go to **_Advanced_** -> **_NAT_** -> **_Virtual Servers_**
 
 ![advanced-nat-virtual-servers](https://dillagr.github.io/port-forwarding/PLDT-HG180U/advanced-nat-virtual-servers.png)
 
-Use the following inputs, as shown:
+Click _Add_, and use the following inputs, as shown:
 
 ```
 User-defined Service Name: Helium-HNT (Any Name)
