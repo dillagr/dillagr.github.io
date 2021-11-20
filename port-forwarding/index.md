@@ -7,11 +7,11 @@ I specifically wanted to enable port-forwarding for my Linxdot Helium Miner, in 
 
 ![helium-hotspot-relayed.png](https://dillagr.github.io/port-forwarding/PLDT-HG180U/helium-hotspot-relayed.png)
 
-¬
+<br>&nbsp;
 
 ## **_Connect To Your Router_**
 
-Open either Chrome, Edge, or your favorite browser. You will need to open two (2) tabs. On the first tab, this address or URL:
+Open either Chrome, Edge, or your favorite browser. You will need to open two (2) tabs. On the first tab, use this address or URL:
 
 ```
 https://192.168.1.1/cgi-bin/enablesuser.cgi?enable=1
@@ -35,8 +35,7 @@ password: 3UJUh2VemEfUtesEchEuSHA
 
 (reference: https://pinoytechsaga.blogspot.com/2019/09/pldt-default-admin-password-username.html)
 
-
-¬
+<br>&nbsp;
 
 ## **_Obtain The IP Address_**
 
@@ -44,7 +43,7 @@ Get the _leased_ IP Address of your device from **_Status_** -> **_LAN_** -> **_
 
 This is usually 192.168.1.x. If there are a number of devices listed (e.g. Phones, Laptops or IoT devices), your device should be identifiable based on its hostname. Take note of the device IP Address as this will be used later.
 
-¬
+<br>&nbsp;
 
 ## **_Configure Port Forwarding_**
 
@@ -67,7 +66,7 @@ Internal IP Address: 192.168.1.22 (leased IP Address)
 
 ![hnt-miner-port-forward](https://dillagr.github.io/port-forwarding/PLDT-HG180U/hnt-miner-port-forward.png)
 
-¬
+<br>&nbsp;
 
 ## **_Verify Port Forwarding_**
 
@@ -78,7 +77,7 @@ You should be able to see that port 44158 is open. This help avoid the _relayed_
 ![port-checker-44158](https://dillagr.github.io/port-forwarding/PLDT-HG180U/port-checker-44158.png)
 
 
-¬
+<br>&nbsp;
 
 ## **_DISCLAIMER_**
 The steps outlined here may cause disruption to your internet connectivity and may void the warranty of your router. I will not be liable for any damage or disruption caused. **Proceed at your own risk!**
@@ -93,9 +92,10 @@ NANO (nano_158p364qazbb7us7nuk7zqios7awmj4t8d1kurhspzmf9piwpzp49bzrc4zp)
 Much thanks!
 
 
-¬
+<br>&nbsp;
 
 ## **_Buy a Linxdot Miner (Affiliate Link)_**
 
 Head over to the [Linxdot Store](https://store.linxdot.com/?ref=78rqpx010z) (affiliate link) and on checkout use the coupon code _4LLID_ for a 3% discount.
 
+<br>&nbsp;
