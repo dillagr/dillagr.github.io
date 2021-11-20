@@ -88,7 +88,7 @@ Head over to the [Linxdot Store](https://store.linxdot.com/?ref=78rqpx010z) (aff
 ## **_DISCLAIMER_**
 The steps outlined here may cause disruption to your internet connectivity and may void the warranty of your router. I will not be liable for any damage or disruption caused. **Proceed at your own risk!**
 
-If this guide has helped you in any way and you want to show appreciation for the assistance, buy me coffee by sending me some crypto. 
+If this guide has helped you in any way and you want to show appreciation for the assistance, buy me coffee by sending some crypto. 
 
 ```
  HNT | 133wDhn3StHDRnA4k3tTniJMQcsjzptiaUVkVBHtYnCeh41wi6u
