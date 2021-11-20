@@ -5,6 +5,8 @@ Your router may have a different interface but the concept(s) involved are going
 
 I specifically wanted to enable port-forwarding for my Linxdot Helium Miner, in order to maximize my rewards. I want to avoid the _relayed_ status of my miner.
 
+This is how a relayed miner looks like.
+
 ![helium-hotspot-relayed.png](https://dillagr.github.io/port-forwarding/PLDT-HG180U/helium-hotspot-relayed.png)
 
 <br>&nbsp;
