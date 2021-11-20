@@ -34,7 +34,6 @@ password: 3UJUh2VemEfUtesEchEuSHA
 
 (reference: https://pinoytechsaga.blogspot.com/2019/09/pldt-default-admin-password-username.html)
 
-![advanced-nat-virtual-servers](https://dillagr.github.io/port-forwarding/PLDT-HG180U/advanced-nat-virtual-servers.png)
 
 
 ## **_Obtain The IP Address_**
@@ -75,8 +74,22 @@ You should be able to see that port 44158 is open. This help avoid the _relayed_
 ![port-checker-44158](https://dillagr.github.io/port-forwarding/PLDT-HG180U/port-checker-44158.png)
 
 
+
+## **_DISCLAIMER_**
+The steps outlined here may cause disruption to your internet connectivity and may void the warranty of your router. I will not be liable for any damage or disruption caused. **Proceed at your own risk!**
+
 If this guide has helped you in any way and you want to show appreciation for the assistance, buy me coffee by sending me some crypto. 
+
+```
 HNT (133wDhn3StHDRnA4k3tTniJMQcsjzptiaUVkVBHtYnCeh41wi6u)
 NANO (nano_158p364qazbb7us7nuk7zqios7awmj4t8d1kurhspzmf9piwpzp49bzrc4zp)
+```
 
 Much thanks!
+
+
+
+## **_Buy a Linxdot Miner (Affiliate Link)_**
+
+Head over to the [Linxdot Store](https://store.linxdot.com/?ref=78rqpx010z) (affiliate link) and on checkout use the coupon code _4LLID_ for a 3% discount.
+
