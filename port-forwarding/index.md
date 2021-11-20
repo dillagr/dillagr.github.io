@@ -35,7 +35,7 @@ username: adminpldt
 password: 3UJUh2VemEfUtesEchEuSHA
 ```
 
-<sup><sub>reference: https://pinoytechsaga.blogspot.com/2019/09/pldt-default-admin-password-username.html</sub></sup>
+<sup>reference: https://pinoytechsaga.blogspot.com/2019/09/pldt-default-admin-password-username.html</sup>
 
 <br>&nbsp;
 
