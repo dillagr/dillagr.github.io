@@ -7,26 +7,19 @@ I specifically wanted to enable port-forwarding for my Linxdot Helium Miner, in 
 
 ![helium-hotspot-relayed.png](https://dillagr.github.io/port-forwarding/PLDT-HG180U/helium-hotspot-relayed.png)
 
-## **_Contents_**
-1. [Connect to your Router](#connect-to-your-router)
-1. [Obtain the IP Address](#obtain-the-ip-address)
-1. [Configure Port Forwardning](#configure-port-forwarding)
-1. [Verify Port Forwardning](#verify-port-forwarding)
-
-
 
 ## [1] Connect To Your Router.
 
 Open either Chrome, Edge, or your favorite browser. You will need to open two (2) tabs. On the first tab, this address or URL:
 
-'''
+```
 https://192.168.1.1/cgi-bin/enablesuser.cgi?enable=1
-'''
+```
 
 And on the second tab, this address:
-'''
+```
 https://192.168.1.1/fh
-'''
+```
 
 Make sure to browse the first tab. And when the browser returns "Enable super user", browse the second tab.
 
@@ -34,8 +27,10 @@ Make sure to browse the first tab. And when the browser returns "Enable super us
 
 
 Use the following credentials:
+```
 username: adminpldt
 password: 3UJUh2VemEfUtesEchEuSHA
+```
 
 (reference: https://pinoytechsaga.blogspot.com/2019/09/pldt-default-admin-password-username.html)
 
@@ -57,7 +52,7 @@ Go to **_Advanced_** -> **_NAT_** -> **_Virtual Servers_**
 
 Use the following inputs, as shown:
 
-'''
+```
 User-defined Service Name: Helium-HNT (Any Name)
 Enable: (Tick This)
 Remote IP Address: (Leave Blank)
@@ -66,7 +61,7 @@ Protocol: TCP/UDP
 External Port: 44158 - 44158
 Internal Port: 44158
 Internal IP Address: 192.168.1.22 (leased IP Address)
-'''
+```
 
 ![hnt-miner-port-forward](https://dillagr.github.io/port-forwarding/PLDT-HG180U/hnt-miner-port-forward.png)
 
@@ -80,4 +75,8 @@ You should be able to see that port 44158 is open. This help avoid the _relayed_
 ![port-checker-44158](https://dillagr.github.io/port-forwarding/PLDT-HG180U/port-checker-44158.png)
 
 
-If this guide has helped you in any way and you want to show appreciation for the assistance, buy me coffee by sending me some HNT (133wDhn3StHDRnA4k3tTniJMQcsjzptiaUVkVBHtYnCeh41wi6u) or NANO (nano_158p364qazbb7us7nuk7zqios7awmj4t8d1kurhspzmf9piwpzp49bzrc4zp). Much thanks!
+If this guide has helped you in any way and you want to show appreciation for the assistance, buy me coffee by sending me some crypto. 
+HNT (133wDhn3StHDRnA4k3tTniJMQcsjzptiaUVkVBHtYnCeh41wi6u)
+NANO (nano_158p364qazbb7us7nuk7zqios7awmj4t8d1kurhspzmf9piwpzp49bzrc4zp)
+
+Much thanks!
