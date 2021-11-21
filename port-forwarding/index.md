@@ -85,9 +85,9 @@ In contrast, if port 44158 is closed, this would be how it would look.
 
 <br>&nbsp;
 
-## **_Buy a Linxdot Miner (Affiliate Link)_**
+## **_Buy a Linxdot Miner_**
 
-Check this [detailed guide on how to buy the Linxdot Hotspot/Miner](https://dillagr.github.io/how-to-buy/), if you have made up your mind.
+Check this [detailed guide on how to buy the Linxdot Hotspot](https://dillagr.github.io/how-to-buy/), if you have made up your mind.
 
 <br>&nbsp;
 
