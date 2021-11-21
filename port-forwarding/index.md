@@ -87,7 +87,7 @@ In contrast, if port 44158 is closed, this would be how it would look.
 
 ## **_Buy a Linxdot Miner (Affiliate Link)_**
 
-Head over to the [Linxdot Store](https://store.linxdot.com/?ref=78rqpx010z) (affiliate link) and on checkout use the coupon code **_4LLID_** for a 3% discount.
+Check this [detailed guide on how to buy the Linxdot Hotspot/Miner](https://dillagr.github.io/how-to-buy/), if you have made up your mind.
 
 <br>&nbsp;
 
