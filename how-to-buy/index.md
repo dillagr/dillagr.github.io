@@ -10,7 +10,7 @@ Another significant factor is they will ship the hotspot/miner to my address. Th
 ## **_Buy a Linxdot Miner_**
 If you believe in the same reasoning, go ahead and buy the Linxdot miner.
 
-Head over to [https://store.linxdot.com](https://store.linxdot.com/?ref=78rqpx010z) (affiliate link). When you use this link, I get rewarded a commission for the sale of the hotspot/miner.
+Head over to [https://store.linxdot.com](https://store.linxdot.com/?ref=78rqpx010z) (affiliate link). When you use this link, I get rewarded a small commission for the sale of the hotspot/miner.
 
 ![linxdot-hotspot-store.png](https://dillagr.github.io/how-to-buy/LINXDOT-HOTSPOT/linxdot-hotspot-store.png)
 
