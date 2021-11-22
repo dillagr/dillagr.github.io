@@ -1,9 +1,13 @@
 ## _FAQ: How to Buy a Helium Hotspot/Miner?_
 If you want to buy a hotspot/miner, here's how..
 
-First, let me tell you why I chose the Linxdot Helium Miner. First and foremost, since I live in the Philippines, the Linxdot supports the Lora frequency of AS923-3. And the other clinching factor is the Instant-Sync. While other miners take 2-3 days to sync to the blockchain, the Linxdot can do it in less than an hour!
+**WARNING! Before buying a miner, make sure it is compatible with your regional LoraWan frequency.**
+
+First off, allow me tell you why I chose the Linxdot Helium Miner. Since I reside in the Philippines, the Linxdot supports the Lora frequency of AS923-3. And the other clinching factor is the Instant-Sync. While other miners take 2-3 days to sync to the blockchain, the Linxdot can do it in less than an hour!
 
 Another significant factor is they will ship the hotspot/miner to my address. This is very convenient in my honest opinion. **And in my experience they will ship it for FREE!**
+
+In doing your research, you will confirm and verify that there are a limited number of hotspots that ship directly to the Philippines. And worst, even more limited support for AS923-3.
 
 <br>&nbsp;
 
