@@ -50,7 +50,7 @@ My recommendation is to get the Linxdot, as **they ship straight to the Philippi
 
 <br>&nbsp;
 
-## **_Buy a Linxdot Hotspot*
+## **_Buy a Linxdot Hotspot_**
 
 Check this [detailed guide on how to buy the Linxdot Hotspot](https://dillagr.github.io/how-to-buy/), if you have made up your mind.
 
