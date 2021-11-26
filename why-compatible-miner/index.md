@@ -42,7 +42,7 @@ Another good question. Since there is currently a shortage of miners and the dem
 
 However, considering the shortage.. Here's the long answer.
 
-The SenseCap M1 and the MNTD versions of the miners are using the Raspberry Pi CM4 system-on-chip hardware. The current availability of this hardware is projected to be second quarter of 2022 (retail). Maybe a quarter early for original equipment manufacturers. This makes target availability for their hardware late first quarter of 2022.
+The SenseCap M1 and the MNTD versions of the miners are using the Raspberry Pi CM4 single-board-computer. The current availability of this hardware is projected to be second quarter of 2022 (retail). Maybe a quarter early for original equipment manufacturers. This makes target availability for their hardware late first quarter of 2022.
 
 Linxdot has since transitioned to Rockchip RK-3566 from RPI CM4. Bobcat has been producing their miners off of RK-3566 from the get go. These chips are still available in retail, and that makes it generally available to original equipment manufacturer's as well. It is just a matter of how fast they can churn out units from their factories.
 
