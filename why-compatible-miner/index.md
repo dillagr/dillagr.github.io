@@ -12,7 +12,9 @@ One of the many upcoming changes to _proof of coverage_ and the way miners will 
 To quote the change:
 <blockquote>
 Prior to PoCv11, the blockchain was unaware of any region-specific LoRaWAN parameters and had very basic support only for US and EU region power settings. With the introduction of PoCv11 the blockchain can look up regional information, EIRP (Effective Isotropic Radiated Power), and channel plans based on H3 indices. The Helium blockchain uses Uber’s H3 hexagonal-based grid system to map geographical coordinates to indexed locations.
+
 ...
+
 Furthermore, the receipt/witness validations also ensure that all the transmissions take place within one LoRaWAN region or channel plan. Thus any spurious transmissions going beyond region boundaries will also be considered invalid.
 </blockquote>
 (_reference_: [POCv11 Explained and Call to Action](https://www.reddit.com/r/HeliumNetwork/comments/pxety8/pocv11_explained_call_to_action/))
