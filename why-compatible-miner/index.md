@@ -46,7 +46,7 @@ The SenseCap M1 and the MNTD versions of the miners are using the Raspberry Pi C
 
 Linxdot has since transitioned to Rockchip RK-3566 from RPI CM4. Bobcat has been producing their miners off of RK-3566 from the get go. These chips are still available in retail, and that makes it generally available to original equipment manufacturer's as well. It is just a matter of how fast they can churn out units from their factories.
 
-My recommendation is to get the Linxdot, as **they ship straight to the Philippines** (and supports the AS923-3 regional frequency).
+My recommendation is to get the Linxdot, as **they ship straight to the Philippines** (and supports the AS923-3 regional frequency). The downside, you will have to wait a couple of months at least.
 
 <br>&nbsp;
 
