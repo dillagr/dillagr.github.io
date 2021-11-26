@@ -1,6 +1,6 @@
-## _FAQ: Why Buy a Compatible Miner?_
+## _FAQ: Why Buy a Compatible Hotspot?_
 
-**WARNING! Before buying a miner, make sure it is compatible with your regional LoRaWAN frequency.**
+**WARNING! Before buying a hotspot or miner, make sure it is compatible with your regional LoRaWAN frequency.**
 
 This is a good question and has something to do with one of the enforced parameters of _Proof of Coverage v11 (POCv11)_.
 
@@ -31,7 +31,7 @@ The code is taken from the helium miner github page. And it shows the different 
 
 <br>&nbsp;
 
-## **_Which Miners are Compatible to The Philippines?_**
+## **_Which Hotspots are Compatible to The Philippines?_**
 The next question is, which miners are compatible to the Philippines? Reading through the LoRaWAN specification, the Philippines is under region **AS923-3**. Which means, only a few of the current approved miners are compatible.
 
 At the time of this writing, they are: [1] SenseCap M1 (US915, automatically switches to AS923-3), [2] RAKWireless, aka MNTD (US915, automatically switches to AS923-3), [3] Linxdot (AS923-3, same model as US915) and the Bobcat300 (AS923-3 model). Note that for the Bobcat300, the AS923 is a specific model. Other models of the Bobcat300 will not auto-switch to the AS923 frequency.
@@ -40,7 +40,7 @@ At the time of this writing, they are: [1] SenseCap M1 (US915, automatically swi
 
 <br>&nbsp;
 
-## **_Which Miners to Buy?_**
+## **_Which Hotspot to Buy?_**
 Another good question. Since there is currently a shortage of miners and the demand has sky-rocketed. The short and quick answer to this question is: _the miner you can get your hands on in the fastest possible time_.
 
 However, considering the shortage.. Here's the long answer.
@@ -53,7 +53,7 @@ My recommendation is to get the Linxdot, as **they ship straight to the Philippi
 
 <br>&nbsp;
 
-## **_Buy a Linxdot Miner_**
+## **_Buy a Linxdot Hotspot*
 
 Check this [detailed guide on how to buy the Linxdot Hotspot](https://dillagr.github.io/how-to-buy/), if you have made up your mind.
 
@@ -62,11 +62,12 @@ Check this [detailed guide on how to buy the Linxdot Hotspot](https://dillagr.gi
 ## **_REFERENCES_**
 [Helium Miner github repository](https://github.com/helium/miner/)
 [LoRaWAN Regional Parameters](https://lora-alliance.org/wp-content/uploads/2021/05/RP-2-1.0.3.pdf)
+[PLDT Router Port Forwarding](https://dillagr.github.io/port-forwarding/)
 
 <br>&nbsp;
 
 ## **_DISCLAIMER_**
-I am not working for Linxdot nor have relatives who work for the company. I have created this guide since I personally bought their product and am currently waiting for them to ship the hotspot to me.
+I am not working for Linxdot nor have relatives who work for the company (to my knowledge). I have created this guide since I personally bought their product and am currently waiting for them to ship the hotspot to me.
 
 If this guide has helped you in any way and you want to show appreciation for the assistance, buy me beer by sending some crypto. 
 
