@@ -57,9 +57,9 @@ Check this [detailed guide on how to buy the Linxdot Hotspot](https://dillagr.gi
 <br>&nbsp;
 
 ## **_REFERENCES_**
-[Helium Miner github repository](https://github.com/helium/miner/)
-[LoRaWAN Regional Parameters](https://lora-alliance.org/wp-content/uploads/2021/05/RP-2-1.0.3.pdf)
-[PLDT Router Port Forwarding](https://dillagr.github.io/port-forwarding/)
+* [Helium Miner github repository](https://github.com/helium/miner/)
+* [LoRaWAN Regional Parameters](https://lora-alliance.org/wp-content/uploads/2021/05/RP-2-1.0.3.pdf)
+* [PLDT Router Port Forwarding](https://dillagr.github.io/port-forwarding/)
 
 <br>&nbsp;
 
