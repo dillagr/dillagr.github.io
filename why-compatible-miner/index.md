@@ -13,10 +13,7 @@ To quote the change:
 <blockquote>
 Prior to PoCv11, the blockchain was unaware of any region-specific LoRaWAN parameters and had very basic support only for US and EU region power settings. With the introduction of PoCv11 the blockchain can look up regional information, EIRP (Effective Isotropic Radiated Power), and channel plans based on H3 indices. The Helium blockchain uses Uber’s H3 hexagonal-based grid system to map geographical coordinates to indexed locations.
 </blockquote>
-
-<br>&nbsp;
-
-reference: [POCv11 Explained and Call to Action](https://www.reddit.com/r/HeliumNetwork/comments/pxety8/pocv11_explained_call_to_action/)
+(reference: [POCv11 Explained and Call to Action](https://www.reddit.com/r/HeliumNetwork/comments/pxety8/pocv11_explained_call_to_action/))
 
 It would be prudent to take some time to read the entirety of the contents of the change in the reference above.
 
