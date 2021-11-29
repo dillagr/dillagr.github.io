@@ -37,6 +37,8 @@ At this point, if you don't have an account, you will need to create one. Provid
 
 Upon checkout use the coupon code **_4LLID_** for a 3% discount. As shown in the screenshot above, you will get a discount of GBP 11.97 deducted from your total bill.
 
+![discount-code-4LLID.png](https://dillagr.github.io/how-to-buy/LINXDOT-HOTSPOT/discount-code-4LLID.png)
+
 <br>&nbsp;
 
 ## **_DISCLAIMER_**
