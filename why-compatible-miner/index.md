@@ -35,7 +35,7 @@ The code is taken from the helium miner github page. And it shows the different 
 ## **_Which Hotspots are Compatible to The Philippines?_**
 The next question is, which miners are compatible to the Philippines? Reading through the LoRaWAN specification, the Philippines is under region **AS923-3**. Which means, only a few of the current approved miners are compatible.
 
-At the time of this writing, they are: [1] SenseCap M1 (US915, [automatically switches to AS923-3](https://support.getmntd.com/hc/en-us/articles/4411279975447-Can-the-miner-switch-frequency-for-my-region-)), [2] RAKWireless, aka MNTD (US915, automatically switches to AS923-3), [3] Linxdot (AS923-3, same model as US915) and the [4] Bobcat 300 (AS923-3 model). Note that for the Bobcat300, the AS923 is a specific model. Other models of the Bobcat 300 will not auto-switch to the AS923 frequency.
+At the time of this writing, they are: [1] SenseCap M1 (US915, automatically switches to AS923-3), [2] RAKWireless, aka MNTD (US915, [automatically switches to AS923-3](https://support.getmntd.com/hc/en-us/articles/4411279975447-Can-the-miner-switch-frequency-for-my-region-)), [3] Linxdot (AS923-3, same model as US915) and the [4] Bobcat 300 (AS923-3 model). Note that for the Bobcat300, the AS923 is a specific model. Other models of the Bobcat 300 will not auto-switch to the AS923 frequency.
 
 (**WARNING!** There are reports of Bobcat shipping the wrong model, so purchase at your own risk.)
 
