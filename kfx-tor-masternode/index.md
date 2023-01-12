@@ -122,7 +122,7 @@ listenonion=1
 discover=1
 proxy=127.0.0.1:9150
 onion=127.0.0.1:29929
-torpassword=[replace-with-hash-password-avove]
+torpassword=[replace-with-clear-text-password]
 ```
 
 The above configuration is necessary for the controller wallet. But for the masternode, the onion address needs to be known first.
@@ -154,9 +154,10 @@ That's it. All that is needed is to start the masternode, which you already know
 
 ## **_Credits_**
 
-This guide was partially due to the contributions of:
-[PivX Forums](https://forum.pivx.org/threads/howto-setup-masternode-or-staker-wallet-behind-tor.588/)
-[BossTeck](https://github.com/Bossteck/BOSSTECK_TOR_MN_GUIDE-UPDATED)
+This guide was partially due to the posts at:
+
+- [PivX Forums: HowTo setup masternode or staker wallet behind Tor](https://forum.pivx.org/threads/howto-setup-masternode-or-staker-wallet-behind-tor.588/)
+- [github: Bossteck/BOSSTECK_TOR_MN_GUIDE-UPDATED](https://github.com/Bossteck/BOSSTECK_TOR_MN_GUIDE-UPDATED)
 
 <br>&nbsp;
 
