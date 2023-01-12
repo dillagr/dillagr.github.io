@@ -152,6 +152,22 @@ That's it. All that is needed is to start the masternode, which you already know
 
 <br>&nbsp;
 
+## **_Masternode Start at Boot_**
+
+Under the section _[Unit]_ of the knoxfs service startup file, add the following tor service dependencies.. It should appear similar to below (note the last lines):
+
+```
+[Unit]
+Description=KFX Wallet Service
+After=network.target
+Requires=tor.service
+After=tor.service
+```
+
+Applies to both the KFX controller wallet, as well as the KFX masternode. This then makes the wallet or the masternode start at boot after the tor service is started.
+
+<br>&nbsp;
+
 ## **_Credits_**
 
 This guide was partially due to the posts at:
