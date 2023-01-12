@@ -41,7 +41,7 @@ RunAsDaemon 1
 SocksPolicy accept 127.0.0.1
 SocksPolicy reject *
 
-SocksPort 9150
+SocksPort 9050
 
 Log notice syslog
 
@@ -120,7 +120,7 @@ Finally, modify the masternode configuration file and append the following lines
 listen=1
 listenonion=1
 discover=1
-proxy=127.0.0.1:9150
+proxy=127.0.0.1:9050
 onion=127.0.0.1:29929
 torpassword=[replace-with-clear-text-password]
 ```
